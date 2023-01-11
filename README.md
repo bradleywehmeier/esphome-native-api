@@ -1,5 +1,7 @@
-![Publish](https://github.com/Nafaya/esphome-native-api/workflows/Publish%20npm%20package/badge.svg)
-![Test](https://github.com/Nafaya/esphome-native-api/workflows/Test/badge.svg?branch=main)
+# Archived
+I do not plan to maintain this repository any longer. It was a starting point for myself to learn the API to implement a module for Bitfocus Companion. See https://github.com/bitfocus/companion-module-esphome-api
+
+---
 
 # Esphome native api
 This library implements client for [Esphome Native APi](https://esphome.io/components/api.html).
